@@ -1,0 +1,22 @@
+{
+  "name": "webpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/precession-97/WebPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/precession-97/WebPractice/issues"
+  },
+  "homepage": "https://github.com/precession-97/WebPractice#readme",
+  "dependencies": {
+    "textalive-app-api": "^0.3.1"
+  }
+}
